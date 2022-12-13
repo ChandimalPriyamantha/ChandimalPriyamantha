@@ -8,7 +8,8 @@
      - Electronic & Arduino programming
      - Astronomy
      - Rocket Science 
--    
+     - Science Fiction 
+  
 - 🌱 I’m currently learning ...
       - Flutter Mobile application developing.
       - Artificial Intelligence & robotics.(Machine Learning,Deep Learning, Neural Ntework and etc)
