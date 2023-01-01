@@ -5,7 +5,7 @@
      - Ethical Hacking
      - Mathematices
      - Physics
-     - Electronic & Arduino programming
+     - Electronic & Microcontrol programming
      - Astronomy
      - Rocket Science 
      - Science Fiction 
