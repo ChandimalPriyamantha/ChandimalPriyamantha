@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChandimalPriyamantha
+# - 👋 Hi, I’m @ChandimalPriyamantha
 - 👀 I’m interested in ...
      - Software Engineering
      - Artificial Intelligence & robotics
