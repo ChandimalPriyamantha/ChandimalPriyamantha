@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m @ChandimalPriyamantha
-- 👀 I’m interested in ...
+# - 👀 I’m interested in ...
      - Software Engineering
      - Artificial Intelligence & robotics
      - Ethical Hacking
