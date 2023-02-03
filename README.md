@@ -31,8 +31,9 @@
 # - 📫 How to reach me ...
       - Contact with my email - chandimalpriyamantha99@gmail.com
       - Contact with my linkedIn  - https://www.linkedin.com/in/chandimal-priyamantha-134643216/
+      [java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/95483538/216648178-8519e4de-6c9d-4151-9e45-3ded4135530a.png)
 
-<!---![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/95483538/216648178-8519e4de-6c9d-4151-9e45-3ded4135530a.png)
+<!---!
 
 ChandimalPriyamantha/ChandimalPriyamantha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
