@@ -30,7 +30,7 @@
             - Astronomy
 # - 📫 How to reach me ...
       - Contact with my email - chandimalpriyamantha99@gmail.com
-      - Contact with my linkedIn  - https://www.linkedin.com/in/chandimal-priyamantha-134643216/
+      - Contact with my linkedIn  - <a href="https://www.linkedin.com/in/chandimal-priyamantha-134643216/">ChandimalPriyamantha - linkedIn  </a>
      
 <!---!
 
