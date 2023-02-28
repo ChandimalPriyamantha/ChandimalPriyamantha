@@ -29,7 +29,7 @@
             - Electronic
             - Astronomy
 # - 📫 How to reach me ...
-      - Contact with my email - chandimalpriyamantha99@gmail.com
+      - Contact with my email - chandimalpriyamantha94@gmail.com
       - Contact with my linkedIn  - https://www.linkedin.com/in/chandimal-priyamantha-134643216/
      
 <!---!
