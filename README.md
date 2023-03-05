@@ -25,8 +25,9 @@
         learning from others, or contributing to open-source projects
         
 # - 📫 How to reach me ...
-      - Contact with my email - chandimalpriyamantha94@gmail.com
-      - Contact with my linkedIn  - https://www.linkedin.com/in/chandimal-priyamantha-134643216/
+      - You can reach out to me through my email "chandimalpriyamantha94@gmail.com" or 
+        follow me on Linkedin <a href="https://www.linkedin.com/in/chandimal-priyamantha-134643216/"> </a> for updates and interesting conversations!
+      
      
 <!---!
 
