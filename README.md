@@ -19,15 +19,11 @@
       - Microcontrolar Programmimg (Arduino,NodMcu) 
       - Mathematices
       - Java Application Developing
+      
 # - 💞️ I’m looking to collaborate on ...
-      - Any one who is interested in ...
-            - Science(Physics, Biology, Cemistry)
-            - Mathematice
-            - Software Engineering
-            - AI
-            - Robortics
-            - Electronic
-            - Astronomy
+      - anyone who is interested in collaborating on software development projects, 
+        learning from others, or contributing to open-source projects
+        
 # - 📫 How to reach me ...
       - Contact with my email - chandimalpriyamantha94@gmail.com
       - Contact with my linkedIn  - https://www.linkedin.com/in/chandimal-priyamantha-134643216/
