@@ -26,7 +26,7 @@
         
 # - 📫 How to reach me ...
       - You can reach out to me through my email "chandimalpriyamantha94@gmail.com" or 
-        follow me on Linkedin <a href="https://www.linkedin.com/in/chandimal-priyamantha-134643216/"> </a> for updates and interesting conversations!
+        follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/" for updates and interesting conversations!
       
      
 <!---!
