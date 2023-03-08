@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @ChandimalPriyamantha
 
-![](https://github-readme-stats.vercel.app/api?username=ChandimalPriyamantha&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandimalPriyamantha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # - 👀 I’m interested in ...
      - Software Engineering
@@ -29,7 +29,7 @@
         
 # - 📫 How to reach me ...
       - You can reach out to me through my email "chandimalpriyamantha94@gmail.com" or 
-        follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/" for updates and interesting conversations!
+        follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/"  for updates and interesting conversations!
   
   
   
