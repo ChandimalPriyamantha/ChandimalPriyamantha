@@ -16,7 +16,7 @@
       - Flutter Mobile application developing.
       - Artificial Intelligence & robotics.(Machine Learning,Deep Learning, Neural Ntework and etc)
       - Ethical Hacking.
-      - Web Developing (PHP,HTML,javaScript,CSS,Spring-boot)
+      - Web Developing (PHP,HTML,javaScript,CSS,Spring-boot+java)
       - Microcontrolar Programmimg (Arduino,NodMcu) 
       - Mathematices
       - Java Application Developing
