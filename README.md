@@ -4,7 +4,7 @@
      - Software Engineering
      - Artificial Intelligence & robotics
      - Ethical Hacking
-     - Mathematices
+     - Mathematics
      - Physics
      - Electronic & Microcontrol programming
      - Astronomy
@@ -13,12 +13,12 @@
      - Space Science
   
 # - 🌱 I’m currently learning ...
-      - Flutter Mobile application developing.
-      - Artificial Intelligence & robotics.(Machine Learning,Deep Learning, Neural Ntework and etc)
+      - Flutter Mobile application development.
+      - Artificial Intelligence & Robotics. (Python, Machine Learning, Deep Learning, Neural Networks, etc)
       - Ethical Hacking.
-      - Web Developing (PHP,HTML,javaScript,CSS,Spring-boot+java)
-      - Microcontrolar Programmimg (Arduino,NodMcu) 
-      - Mathematices
+      - Web Developing (HTML, JavaScript, CSS, Spring-boot, react, AngularJS, Java)
+      - Embedded Programming (Arduino, NodMcu, JavaFX) 
+      - Mathematics (Descreat math, Statistics & Probability)
       - Java Application Developing
       
 # - 💞️ I’m looking to collaborate on ...
@@ -27,7 +27,7 @@
         
 # - 📫 How to reach me ...
       - You can reach out to me through my email "chandimalpriyamantha94@gmail.com" or 
-        follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/"  for updates and interesting conversations!
+        Follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/"  for updates and interesting conversations!
   
   
   
