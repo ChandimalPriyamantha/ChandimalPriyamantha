@@ -17,9 +17,9 @@
       - Artificial Intelligence & Robotics. (Python, Machine Learning, Deep Learning, Neural Networks, etc)
       - Ethical Hacking.
       - Web Developing (HTML, JavaScript, CSS, Spring-boot, react, AngularJS, Java)
-      - Embedded Programming (Arduino, NodMcu, JavaFX) 
+      - Embedded Programming (Arduino, NodMcu, JavaFX, C++) 
       - Mathematics (Descreat math, Statistics & Probability)
-      - Java Application Developing
+      - Java Desktop Application Developing (JavaFX)
       
 # - 💞️ I’m looking to collaborate on ...
       - anyone who is interested in collaborating on software development projects, 
