@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m [@ChandimalPriyamantha](https://github.com/ChandimalPriyamantha)
+# - 👋 Hi, I’m [@ChandimalPriyamantha](https://www.linkedin.com/in/chandimal)
 
 # - 👀 I’m interested in ...
      - Software Engineering
