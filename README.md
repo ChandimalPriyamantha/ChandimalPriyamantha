@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @ChandimalPriyamantha
+# - 👋 Hi, I’m [@ChandimalPriyamantha](https://github.com/ChandimalPriyamantha)
 
 # - 👀 I’m interested in ...
      - Software Engineering
@@ -27,16 +27,10 @@
         
 # - 📫 How to reach me ...
       - You can reach out to me through my email "chandimalpriyamantha94@gmail.com" or 
-        Follow me on Linkedin "https://www.linkedin.com/in/chandimal-priyamantha-134643216/"  for updates and interesting conversations!
+        Follow me on [Linkedin](https://www.linkedin.com/in/chandimal-priyamantha) for updates and interesting conversations!
   
   
   
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-     
-<!---!
-
-ChandimalPriyamantha/ChandimalPriyamantha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
