@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m [@ChandimalPriyamantha](www.linkedin.com/in/chandimal-priyamantha)
 
 # - 👀 I’m interested in ...
-     - Software Engineering
+     - Computer Science & Engineering
      - Artificial Intelligence & robotics
      - Ethical Hacking
      - Mathematics
@@ -16,10 +16,11 @@
       - Flutter Mobile application development.
       - Artificial Intelligence & Robotics. (Python, Machine Learning, Deep Learning, Neural Networks, etc)
       - Ethical Hacking.
-      - Web Developing (HTML, JavaScript, CSS, Spring-boot, react, AngularJS, Java)
+      - Web Developing (HTML, JavaScript, TypeScript CSS, Spring-boot, react, AngularJS, Java)
       - Embedded Programming (Arduino, NodMcu, JavaFX, C++) 
       - Mathematics (Descreat math, Statistics & Probability)
       - Java Desktop Application Developing (JavaFX)
+      - Quantum Computing 
       
 # - 💞️ I’m looking to collaborate on ...
       - anyone who is interested in collaborating on software development projects, 
