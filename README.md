@@ -3,21 +3,19 @@
 # - 👀 I’m interested in ...
      - Computer Science & Engineering
      - Artificial Intelligence & robotics
-     - Ethical Hacking
-     - Mathematics
+     - Mathematics & Statistics 
      - Physics
      - Electronic & Microcontrol programming
-     - Astronomy
-     - Biology
-     - Science Fiction 
+     - Biology + Computer Science 
+     - Quantum Computing 
      - Space Science
   
 # - 🌱 I’m currently learning ...
       - Flutter Mobile application development.
       - Artificial Intelligence & Robotics. (Python, Machine Learning, Deep Learning, Neural Networks, etc)
       - Ethical Hacking.
-      - Web Developing (HTML, JavaScript, TypeScript CSS, Spring-boot, react, AngularJS, Java)
-      - Embedded Programming (Arduino, NodMcu, JavaFX, C++) 
+      - Web Developing (HTML, JavaScript, TypeScript CSS, Spring-boot, reactJS, AngularJS, Java)
+      - Embedded Programming & IOT (Arduino, NodMcu, JavaFX, C++) 
       - Mathematics (Descreat math, Statistics & Probability)
       - Java Desktop Application Developing (JavaFX)
       - Quantum Computing 
